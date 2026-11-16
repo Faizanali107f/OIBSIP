@@ -1,7 +1,7 @@
 # OIBSIP — Oasis Infobyte Internship Program
 
-**Intern:** Faizan Ali
-**Track:** Python Programming
+**Intern:** Faizan Ali  
+**Track:** Python Programming  
 **Duration:** 5 November 2026 – 15 December 2026
 
 This repository holds all my task submissions for the Oasis Infobyte Internship Program (OIBSIP). Each task lives in its own folder with its source code, a README and screenshots.
