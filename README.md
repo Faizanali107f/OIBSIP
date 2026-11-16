@@ -10,7 +10,7 @@ This repository holds all my task submissions for the Oasis Infobyte Internship 
 
 | # | Task | Tier | Folder | Status |
 |---|------|------|--------|--------|
-| 2 | BMI Calculator | Advanced | [Python-Task2-BMICalculator](./Python-Task2-BMICalculator) | 🚧 In progress |
+| 2 | BMI Calculator | Advanced | [Python-Task2-BMICalculator](./Python-Task2-BMICalculator) | ✅ Completed |
 | 3 | Random Password Generator | Advanced | [Python-Task3-PasswordGenerator](./Python-Task3-PasswordGenerator) | ⏳ Planned |
 | 4 | Basic Weather App | Advanced | [Python-Task4-WeatherApp](./Python-Task4-WeatherApp) | ⏳ Planned |
 
