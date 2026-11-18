@@ -63,7 +63,8 @@ class PasswordApp(tk.Tk):
                  fg="#94a3b8", font=(FONT, 10)).pack(side="left", pady=(20, 14))
 
     def _card(self, parent, **pack):
-        frame = tk.Frame(parent, bg=CARD, highlightthickness=1, highlightbackground="#e2e8f0")
+        frame = tk.Frame(parent, bg=CARD, highlightthickness=1,
+                         highlightbackground="#e2e8f0", highlightcolor="#e2e8f0")
         frame.pack(**pack)
         inner = tk.Frame(frame, bg=CARD)
         inner.pack(fill="both", expand=True, padx=20, pady=18)
